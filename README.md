@@ -12,10 +12,10 @@
 ---
 
 ### about me
-- 👨🏻‍💻 I'm a Computer Science & Business Systems Student
-- 🏫 I am pursuing my B.Tech degree at [Sri Krishna College of Engineering and Technology, coimbatore](https://skcet.ac.in/)
-- 🚀 I code stuff.
-- ⚡ Fun fact: i spend more time debugging thann building;)
+- 👨🏻‍💻 Computer Science & Business Systems Student
+- 🏫 pursuing my B.Tech degree at [Sri Krishna College of Engineering and Technology, coimbatore](https://skcet.ac.in/)
+- 🚀 Interested in web3, blockchain.
+- ⚡ Fun fact: i use light mode code editor;)
 
 ---
 
@@ -23,7 +23,7 @@
 <div>
   <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,js,ts,solidity,java,nodejs,ipfs,git,figma,ai,cypress," />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,js,ts,solidity,java,nodejs,ipfs,git,figma,ai,cypress" />
   </a>
 </p>
 </div>
