@@ -12,7 +12,7 @@
 ---
 
 ### about me
-- 👨🏻‍💻 i code stuff, break and rebuild stuff
+- 👨🏻‍💻 i code, break and rebuild stuff
 
 ---
 
