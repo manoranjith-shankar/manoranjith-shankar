@@ -12,10 +12,7 @@
 ---
 
 ### about me
-- 👨🏻‍💻 Computer Science & Business Systems Student
-- 🏫 pursuing my B.Tech degree at [Sri Krishna College of Engineering and Technology, coimbatore](https://skcet.ac.in/)
-- 🚀 Interested in web3, blockchain.
-- ⚡ Fun fact: i use light mode code editor;)
+- 👨🏻‍💻 i code stuff, break and rebuild stuff
 
 ---
 
